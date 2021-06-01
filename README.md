@@ -72,6 +72,11 @@ con la electricidad.
 Por último logramos apreciar las  difrentes formas de interpretar circuitos y cada uno de los elementos
 que pueden estar presentes en ellos.
 
+**6.BIBLIOGRAFÍA**
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
+
+
 
 
 
