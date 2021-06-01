@@ -1,7 +1,9 @@
 # IMFORME TAREA 1
 
 AUTORES : TOAPANTA ANABEL
+
           MONTALVO STEVE
+
           MEJIA CESAR 
 
 
@@ -49,6 +51,7 @@ Capítulo 1
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_063952.jpg)
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_064136.jpg)
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_064727.jpg)
+
 **4.VIDEO**
 
 Link de video:
