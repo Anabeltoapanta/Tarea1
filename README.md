@@ -52,6 +52,8 @@ Capítulo 1
 Link de video:
 https://youtu.be/WcSG8Idfe0c
 
+![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_095345.jpg)
+
 
 **5.CONCLUSIONES**
 
