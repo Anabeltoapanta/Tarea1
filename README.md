@@ -25,6 +25,8 @@ Objetivos Específicos
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
+![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_034716.jpg)
+
 
 **4.VIDEO**
 
