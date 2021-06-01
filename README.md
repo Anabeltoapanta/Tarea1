@@ -27,7 +27,16 @@ Link de video:
 **5.CONCLUSIONES**
 
 En conclusión todos los conceptos aprendidos son muy vitales para la ingenieria e incluso para 
-el estudio de la electricidad 
+el estudio de la electricidad un ejemplo claro es la notación científica ya que premite realizar 
+calculos de manera simplificada y sencilla. 
+
+Ademas comprendimos la importancia del modelo atómico de Bohr y la forma de conportarse del electrón
+con la electricidad.
+
+Por ultimo logramos apreciar las  difrentes formas de interpretar circuitos y cada uno de los elementos
+que pueden estar presentes en ellos.
+
+
 
 
 
