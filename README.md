@@ -12,12 +12,19 @@ de los intrumentos eléctricos.
 
 Objetivos Específicos
 
-*Conocer los conceptos básicos de la electricidad y la teoría atómica.
-*Manejar el sistema internacional de unidades SI y sus conversiones.
-*Interpretar cifras numéricas a travez de las propiedades de la potencia de base 10.
-*Conocer los conceptos de voltaje,intensidad,carga entre otras.
-*Manejar correctamente los elementos eléctricos y su interpretación en un circuito.
+* Conocer los conceptos básicos de la electricidad y la teoría atómica.
+* Manejar el sistema internacional de unidades SI y sus conversiones.
+* Interpretar cifras numéricas a travez de las propiedades de la potencia de base 10.
+* Conocer los conceptos de voltaje,intensidad,carga entre otras.
+* Manejar correctamente los elementos eléctricos y su interpretación en un circuito.
 
-** 3. MARCO TEÓRICO **
+**3.MARCO TEÓRICO**
+
+**4.VIDEO**
+
+Link de video:
+
+
+
 
 
