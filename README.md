@@ -20,6 +20,9 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
+![](https://github.com/Anabeltoapanta/Tarea1/blob/main/cuadrp1.jpg)
+
+
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 
