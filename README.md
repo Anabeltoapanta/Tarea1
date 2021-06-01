@@ -3,7 +3,7 @@
 AUTORES : TOAPANTA ANABEL
 
 
-** 1. OBJETIVOS **
+**1.OBJETIVOS**
 
 * Analizar y entender el comportamiento eléctrico el cual se describe
 con las leyes básicas experimentales y conceptos fundamentales,asi 
@@ -23,6 +23,11 @@ Objetivos Específicos
 **4.VIDEO**
 
 Link de video:
+
+**5.CONCLUSIONES**
+
+En conclusión todos los conceptos aprendidos son muy vitales para la ingenieria e incluso para 
+el estudio de la electricidad 
 
 
 
