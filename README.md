@@ -21,6 +21,7 @@ Objetivos Específicos
 **2.MARCO TEÓRICO**
 
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/cuadrp1.jpg)
+![](https://github.com/Anabeltoapanta/Tarea1/blob/main/WhatsApp%20Image%202021-06-01%20at%209.42.35%20AM.jpeg)
 
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
