@@ -1,6 +1,8 @@
 # IMFORME TAREA 1
 
-AUTORES : TOAPANTA ANABEL
+AUTORES : 
+          
+          TOAPANTA ANABEL
 
           MONTALVO STEVE
 
