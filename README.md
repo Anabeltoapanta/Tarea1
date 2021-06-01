@@ -37,6 +37,7 @@ Capítulo 1
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_045525.jpg)
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_045718.jpg)
 ![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_045834.jpg)
+![](https://github.com/Anabeltoapanta/Tarea1/blob/main/20210601_045953.jpg)
 
 **4.VIDEO**
 
