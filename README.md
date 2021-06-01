@@ -18,7 +18,10 @@ Objetivos Específicos
 * Conocer los conceptos de voltaje,intensidad,carga entre otras.
 * Manejar correctamente los elementos eléctricos y su interpretación en un circuito.
 
-**3.MARCO TEÓRICO**
+**2.MARCO TEÓRICO**
+
+**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
 
 **4.VIDEO**
 
@@ -30,10 +33,10 @@ En conclusión todos los conceptos aprendidos son muy vitales para la ingenieria
 el estudio de la electricidad un ejemplo claro es la notación científica ya que premite realizar 
 calculos de manera simplificada y sencilla. 
 
-Ademas comprendimos la importancia del modelo atómico de Bohr y la forma de conportarse del electrón
+Además comprendimos la importancia del modelo atómico de Bohr y la forma de comportarse del electrón.
 con la electricidad.
 
-Por ultimo logramos apreciar las  difrentes formas de interpretar circuitos y cada uno de los elementos
+Por último logramos apreciar las  difrentes formas de interpretar circuitos y cada uno de los elementos
 que pueden estar presentes en ellos.
 
 
