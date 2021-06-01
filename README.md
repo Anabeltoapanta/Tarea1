@@ -50,6 +50,8 @@ Capítulo 1
 **4.VIDEO**
 
 Link de video:
+https://youtu.be/WcSG8Idfe0c
+
 
 **5.CONCLUSIONES**
 
